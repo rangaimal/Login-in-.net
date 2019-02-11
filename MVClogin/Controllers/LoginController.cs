@@ -13,5 +13,10 @@ namespace MVClogin.Controllers
         {
             return View();
         }
+        [HttpPost]
+        public ActionResult Autherize()
+        {
+            return View();
+        }
     }
 }

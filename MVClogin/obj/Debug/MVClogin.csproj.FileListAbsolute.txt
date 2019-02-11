@@ -46,3 +46,7 @@ c:\users\acer\documents\visual studio 2015\Projects\MVClogin\MVClogin\bin\System
 c:\users\acer\documents\visual studio 2015\Projects\MVClogin\MVClogin\obj\Debug\MVClogin.csprojResolveAssemblyReference.cache
 c:\users\acer\documents\visual studio 2015\Projects\MVClogin\MVClogin\obj\Debug\MVClogin.dll
 c:\users\acer\documents\visual studio 2015\Projects\MVClogin\MVClogin\obj\Debug\MVClogin.pdb
+c:\users\acer\documents\visual studio 2015\Projects\MVClogin\MVClogin\bin\jQuery.Validation.Unobtrusive.Native.dll
+c:\users\acer\documents\visual studio 2015\Projects\MVClogin\MVClogin\bin\Newtonsoft.Json.dll
+c:\users\acer\documents\visual studio 2015\Projects\MVClogin\MVClogin\bin\Newtonsoft.Json.pdb
+c:\users\acer\documents\visual studio 2015\Projects\MVClogin\MVClogin\bin\Newtonsoft.Json.xml
